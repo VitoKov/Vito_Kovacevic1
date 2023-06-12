@@ -1,0 +1,20 @@
+@charset "utf-8";
+ /* CSS Document */
+  p {
+	 color:green;
+	 font-family: Constantia, "Lucida Bright", "DeJaVu Serif", Georgia, "serif";
+ }
+ .paragraf_2 {color:black;}
+ .pozadina {
+	background-image: url("slike/background.jpg");
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover {
+	background-color: darkgray;
+}
